@@ -1,3 +1,3 @@
 # Creación de contenedor
 
-1. Crear la imagen `` docker-compose up ``
+1. Crear la imagen `` docker compose up -d ``
